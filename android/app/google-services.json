@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726137725939",
+    "project_id": "restoku-ca7f1",
+    "storage_bucket": "restoku-ca7f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726137725939:android:00136f898c16fef60f6886",
+        "android_client_info": {
+          "package_name": "com.restoku.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTyu-F9Wh4FEBcRFZAqgodrIbU5emti8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
